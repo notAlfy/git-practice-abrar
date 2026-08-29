@@ -1,10 +1,70 @@
-\# Git Practice Project
+\# Git \& GitHub Practice Project
 
 
 
-Name: Md. Abrar Nawar
+\## Student Information
 
 
 
-This project is created to practice Git and GitHub fundamentals including commits, branches, merging, and remote repositories.
+\*\*Name:\*\* Md. Abrar Nawar
+
+
+
+\*\*GitHub Username:\*\* notAlfy
+
+
+
+\## About This Project
+
+
+
+This project was created as part of a Git and GitHub practical assignment.
+
+
+
+The project demonstrates:
+
+
+
+\- Git repository initialization
+
+\- Creating commits
+
+\- Creating and managing branches
+
+\- Merging branches
+
+\- Using `.gitignore`
+
+\- Working with Python files
+
+\- Connecting a local repository to GitHub
+
+\- Pushing changes to GitHub
+
+
+
+\## Project Structure
+
+
+
+```text
+
+git-practice-abrar/
+
+│
+
+├── README.md
+
+├── .gitignore
+
+├── src/
+
+│   ├── main.py
+
+│   └── utils.py
+
+└── docs/
+
+&#x20;   └── project-description.md
 
