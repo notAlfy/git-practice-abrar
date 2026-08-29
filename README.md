@@ -1,8 +1,7 @@
-\# Git \& GitHub Practice Project
+# Git \& GitHub Practice Project
 
 
-
-\## Student Information
+## Student Information
 
 
 
