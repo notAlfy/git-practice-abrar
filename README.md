@@ -5,15 +5,15 @@
 
 
 
-\*\*Name:\*\* Md. Abrar Nawar
+**Name:** Md. Abrar Nawar
 
 
 
-\*\*GitHub Username:\*\* notAlfy
+**GitHub Username:** notAlfy
 
 
 
-\## About This Project
+## About This Project
 
 
 
@@ -25,25 +25,25 @@ The project demonstrates:
 
 
 
-\- Git repository initialization
+- Git repository initialization
 
-\- Creating commits
+- Creating commits
 
-\- Creating and managing branches
+- Creating and managing branches
 
-\- Merging branches
+- Merging branches
 
-\- Using `.gitignore`
+- Using `.gitignore`
 
-\- Working with Python files
+- Working with Python files
 
-\- Connecting a local repository to GitHub
+- Connecting a local repository to GitHub
 
-\- Pushing changes to GitHub
+- Pushing changes to GitHub
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
