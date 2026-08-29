@@ -65,5 +65,36 @@ git-practice-abrar/
 
 └── docs/
 
-&#x20;   └── project-description.md
+     └── project-description.md
 
+```
+
+
+## Current Features
+
+The calculator supports:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Division-by-zero error handling
+
+## Running the Program
+
+```bash
+python src/main.py
+```
+
+## Git Workflow
+
+The following feature branches were used during development:
+
+- `feature/calculator`
+- `feature/error-handling`
+
+Both feature branches were merged into the `main` branch.
+
+## Author
+
+**Md. Abrar Nawar**
